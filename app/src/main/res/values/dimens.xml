@@ -5,4 +5,5 @@
     <dimen name="video_width">300dp</dimen>
     <dimen name="video_width_wide">500dp</dimen>
     <dimen name="video_height">200dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
 </resources>
